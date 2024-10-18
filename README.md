@@ -2,4 +2,4 @@
 
 He walked on the waterrrrr
 
-Updating this part to try and make some conflicts........
+This is a line that should resolve the conflicts.
