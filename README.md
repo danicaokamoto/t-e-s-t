@@ -2,4 +2,4 @@
 
 He walked on the waterrrrr
 
-This is a line that should resolve the conflicts.
+blablablablablabla merge conflict please
