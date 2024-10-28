@@ -2,6 +2,4 @@
 
 He walked on the waterrrrr
 
-blablablablablabla merge conflict please
-
-another merge conflict!!! aaaaaaaaaaaa
+trying to solve this!!!!
